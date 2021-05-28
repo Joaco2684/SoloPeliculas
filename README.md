@@ -1,6 +1,7 @@
 # peliculas
 
-A new Flutter project.
+A flutter app where you can search and explore the movie you want.
+It´s made with MovieDB Api.
 
 ## Getting Started
 
